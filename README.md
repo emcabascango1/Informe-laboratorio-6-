@@ -431,7 +431,8 @@ b. Si ϕ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
 ![image](https://user-images.githubusercontent.com/84425276/127591934-d1b14eaf-6efe-4a66-849b-9186ecbb0e06.png)
 
 
-##4. Video
+## 4. Video
+
 https://www.youtube.com/watch?v=gLONZzTPS8
 
 ## 5. Conclusiones 
